@@ -1,0 +1,4 @@
+- render text about account : ok
+- favorite account
+- add money for user
+- view list skins
